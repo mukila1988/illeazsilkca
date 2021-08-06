@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://play.fridaynightfunk.rf.gd/sitemap.xml
